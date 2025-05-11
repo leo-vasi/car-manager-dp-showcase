@@ -14,12 +14,6 @@ Projeto demonstrando a implementação de um sistema CRUD para gestão de veícu
 - Validação de dados
 - Registro de timestamps (criação/atualização)
 
-## 🛠️ Tecnologias
-- Java Servlet (Controller)
-- Padrão MVC
-- JDBC (Persistência)
-- JSP (Na view)
-- Design Patterns aplicados
 
 ## 🎯 Objetivo Didático
 Servir como referência para:
